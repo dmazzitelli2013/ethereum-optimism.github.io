@@ -1,0 +1,16 @@
+{
+  "name": "TestGeojam",
+  "symbol": "JAM2",
+  "decimals": 18,
+  "description": "Test GeoJam token",
+  "website": "https://www.geojam.xyz/",
+  "twitter": "https://twitter.com/geojamofficial",
+  "tokens": {
+    "ethereum": {
+      "address": "0xe606479a8c41D4EcF02aC60224d2F1aF9aD73282"
+    },
+    "base-sepolia": {
+      "address": "0x0d8575a913ab67aa41da29aadfd1b08c47150230"
+    }
+  }
+}
